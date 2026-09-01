@@ -1,0 +1,4 @@
+import{k as p,l as a}from"./chunk-CASMDBIH.js";import{f as s,j as m}from"./chunk-QL5VTKXM.js";import"./chunk-3HKUEKUI.js";import"./chunk-AI4Q2SDZ.js";import"./chunk-3QOIJG35.js";import{Eb as i,Ma as o,hb as e,ib as n,jb as c}from"./chunk-7GWNEKH7.js";import"./chunk-EQDQRRRY.js";var v=(()=>{class t{static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275cmp=o({type:t,selectors:[["app-echec-inscription"]],decls:8,vars:0,consts:[[1,"text-center"],["src","assets/error-404.png","alt","erreur-404","width","400"],["routerLink","/accueil"]],template:function(r,l){r&1&&(e(0,"div",0),c(1,"img",1),e(2,"h3"),i(3,` Oops !
+`),n(),e(4,"p"),i(5,` Une erreur s'est produite, merci de r\xE9-essayer plus tard
+`),n(),e(6,"p-button",2),i(7,`Retourner \xE0 l'accueil
+`),n()())},dependencies:[m,s,a,p],encapsulation:2})}}return t})();export{v as EchecInscriptionComponent};

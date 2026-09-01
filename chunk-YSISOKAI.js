@@ -1,0 +1,2 @@
+import{Eb as o,Ma as n,hb as i,ib as r}from"./chunk-7GWNEKH7.js";import"./chunk-EQDQRRRY.js";var p=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-matieres-premieres"]],standalone:!1,decls:2,vars:0,template:function(t,a){t&1&&(i(0,"p"),o(1,` matieres-premieres works!
+`),r())},encapsulation:2})}}return e})();export{p as MatieresPremieresComponent};
